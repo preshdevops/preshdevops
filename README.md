@@ -16,13 +16,6 @@
 ### 🧑🏽‍💻 About Me
 
 - 🎓 Final-year **Computer Science** student at **Osun State University (UNIOSUN)**, Osogbo, Nigeria
-- ⛪ Creative Media & IT Lead (Understudy) at **The Sapphires Development Initiative (TSDI)** — reaching 20,000+ rural adolescents
-- 🎨 Graphics Designer & Social Media Manager for the **Osogbo Peace Club of Nigeria (OSPCN)**
-- 🙏 Frontend/Full-stack developer on **TMGM** (The Miracle Global Ministries app)
-- 📚 Currently defending my dissertation, **Privora**, in August
-- ⚽ Off-duty: FM26 tactics, transfer analysis, Man United Women, Arcane / Invincible / Vox Machina, keyboard, and writing
-- 📝 I write about faith, football, and film at [preciouswrites.vercel.app](https://preciouswrites.vercel.app)
-- 💬 Ask me about Next.js, Django, Cloudflare Workers, or sermon-processing pipelines in Rust
 
 ---
 
@@ -103,7 +96,7 @@
 | 📖 **Privora** | Final-year dissertation project (UNIOSUN, CS) — defending August 2026 | Research + implementation |
 | ✍️ **[preciouswrites](https://preciouswrites.vercel.app)** | Personal blog on faith, football, and film | Next.js 16 · Turso/libSQL |
 | 💌 **Editorial Muse** | A letter-writing web app | Node.js · Express |
-| ✝️ **TMGM** | The Miracle Global Ministries app — frontend/full-stack, E2EE and real-time messaging | React Native/Expo · WebSockets |
+
 | 🎥 **CineVault** | Early foundational movie-discovery project | — |
 | 💱 **Currency Converter** | Desktop currency conversion app | — |
 
